@@ -1,138 +1,124 @@
-# Hi, I'm Pak Ming
+# Philip Cheung
 
-**Full-Stack Engineer | AI Integration Specialist | SaaS Builder**
+**AI Engineer | Quantitative Developer | Technical Architect**
 
-I build production-grade web applications with modern TypeScript/React stacks and integrate AI capabilities (LLMs, OCR, TTS) into user-facing products. My focus is on shipping reliable software that solves real problems.
+MSc Computer Science with Artificial Intelligence (Merit) from University of Wolverhampton. 10+ years building production systems spanning AI/ML, quantitative trading, and full-stack SaaS platforms.
+
+I bridge cutting-edge AI research with practical business applications - from LLM-powered chatbots to low-latency trading infrastructure.
 
 ---
 
 ## What I Build
 
-- **AI-Powered SaaS Products** - Chat interfaces, content generation tools, and intelligent automation
-- **Document Processing Systems** - OCR pipelines with multi-engine fallback, PDF generation, format conversion
-- **Educational Platforms** - Interactive quiz systems, progress tracking, certification prep tools
-- **Media Processing Tools** - Subtitle extraction, text-to-speech synthesis, translation workflows
-- **Full-Stack Web Applications** - End-to-end development from React frontends to Python/Node backends
+- **AI/ML Systems** - RAG architectures, transformer models, NLP pipelines, real-time ML inference (<100ms latency)
+- **Quantitative Trading** - HFT systems, backtesting frameworks, multi-signal models, market microstructure analytics
+- **Full-Stack SaaS** - Multi-tenant platforms with subscription billing, usage analytics, and enterprise integrations
+- **Blockchain/Web3** - Smart contracts (Solidity), NFT marketplaces, DeFi analytics, crypto trading bots
 
 ---
 
-## Recent Engineering Themes (Last 12 Months)
+## Current Focus
 
-Based on my commit activity across private repositories:
+- **LLM-Augmented Trading Systems** - MSc dissertation combining transformer architectures with real-time market signals
+- **Multi-Provider AI Architectures** - Building reliable LLM systems with fallback, rate limiting, and response validation
+- **Low-Latency Infrastructure** - WebSocket streaming, event-driven systems, millisecond execution pipelines
 
-- **LLM Integration Architecture** - Building robust chatbot systems with multi-provider fallback, rate limiting, and response validation (including refusal detection)
-- **Multi-Engine OCR Systems** - Developing OCR services that leverage multiple engines (Paddle, Tesseract) for accuracy and reliability
-- **Subscription SaaS Patterns** - Implementing complete payment flows with Stripe, including checkout, webhooks, and subscription management
-- **Real-Time UX Patterns** - ChatGPT-style streaming responses, optimistic updates, and responsive interfaces
-- **Serverless Deployment** - AWS Lambda, SAM templates, and containerized deployments
+---
+
+## Technical Stack
+
+### AI & Machine Learning
+```
+LLMs (GPT, Claude, Gemini) | RAG & LangChain | PyTorch | TensorFlow
+Transformers | Hugging Face | Reinforcement Learning | NLP
+XGBoost | LSTM/GRU | Sentiment Analysis | MLOps
+```
+
+### Quantitative & Trading
+```
+QuantConnect | MetaTrader 5 | CCXT | TradingView
+Backtesting | Monte Carlo | Time Series | Risk Management
+WebSocket Feeds | Order Book Analysis | On-Chain Analytics
+```
+
+### Software Engineering
+```
+Python | TypeScript | C++ | FastAPI | Django | Node.js
+React | Next.js | PostgreSQL | MongoDB | Redis | TimescaleDB
+Docker | AWS (EC2, Lambda, S3) | CI/CD | Microservices
+```
+
+### Blockchain & Web3
+```
+Solidity | Web3.js | Ethereum | DeFi Protocols
+Smart Contracts | NFT (ERC-721/1155) | DEX Integration
+```
+
+---
+
+## Education & Certifications
+
+**MSc Computer Science with Artificial Intelligence (Merit)**
+University of Wolverhampton | 2023-2025
+*Dissertation: LLM-Augmented High-Frequency Trading Strategy Development*
+
+**BBA** - Hong Kong University of Science & Technology
+
+**Certifications:**
+- Gemini Certified Educator (Google, 2025)
+- Harvard CS50x - Computer Science Fundamentals
+- MLOps Specialization (Google Cloud)
+- Securities & Futures License - Papers 1, 7, 8, 12
+
+---
+
+## Career Highlights
+
+*Company names anonymized for confidentiality*
+
+**Head of Quantitative Research** | London (2025-Present)
+- Lead HFT strategy development across Forex, indices, and crypto markets
+- Built transformer-based predictive models improving Sharpe ratio by 65%
+- Architected low-latency execution infrastructure with colocation connectivity
+
+**AI Engineer & Technical Architect** | Remote UK (2021-2024)
+- Designed distributed ML inference serving 5M+ daily requests at <100ms latency
+- Built comprehensive RAG platform reducing information retrieval time by 85%
+- Led team of 6 engineers, established AI/ML best practices
+
+**Senior Software Engineer** | Hong Kong (2015-2021)
+- Architected multi-tenant SaaS platforms serving 100+ enterprise clients
+- Developed blockchain/NFT marketplace with smart contracts
+- Built real-time collaboration systems handling 1M+ daily API requests
 
 ---
 
 ## Selected Projects
 
-### Public Repositories
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [ethereum-price-prediction](https://github.com/pakmingc/ethereum-price-prediction) | ML model for cryptocurrency price forecasting | Python, Jupyter |
-| [YouTube-Subtitle-Downloader](https://github.com/pakmingc/YouTube-Subtitle-Downloader) | Utility for extracting video subtitles | Python |
-| [Instagram-Downloader](https://github.com/pakmingc/Instagram-Downloader) | Media download automation | Python |
-| [PizzaPicker_m2](https://github.com/pakmingc/PizzaPicker_m2) | Unity game development | C#, Unity |
-| [Automotive](https://github.com/pakmingc/Automotive) | Unity driving simulation | C#, Unity |
-
-### Engineering Showcase (Architecture & Decision Documentation)
-
-See [engineering-showcase](https://github.com/pakmingc/engineering-showcase) for:
-- Anonymized architecture diagrams
-- Technical decision log
-- Engineering practices documentation
-- Case studies from production systems
+| Project | Description |
+|---------|-------------|
+| [engineering-showcase](https://github.com/pakmingc/engineering-showcase) | Architecture diagrams, decision logs, and case studies |
+| [ethereum-price-prediction](https://github.com/pakmingc/ethereum-price-prediction) | Ensemble ML model (LSTM + XGBoost) for price forecasting |
+| [YouTube-Subtitle-Downloader](https://github.com/pakmingc/YouTube-Subtitle-Downloader) | Whisper AI transcription + GPT summarization |
 
 ---
 
-## Private Work Note
+## Private Work
 
-Most of my recent work (900+ commits in the past 12 months) is in private repositories for clients and personal SaaS products. I cannot share source code due to confidentiality, but I can:
+Most of my recent work is in private repositories for enterprise clients and proprietary trading systems. I'm happy to:
 
-1. **Walk through architectures** in a screen-share interview
-2. **Discuss technical decisions** with anonymized examples
-3. **Show my contribution graph** as evidence of consistent activity
-4. **Demonstrate deployed products** (where permitted)
-
----
-
-## How I Work
-
-### Code Quality
-- TypeScript strict mode for type safety
-- ESLint + Prettier for consistent formatting
-- Modular architecture with clear separation of concerns
-
-### Testing
-- Unit tests for business logic (pytest, Jest)
-- Integration tests for API endpoints
-- End-to-end tests with Playwright for critical flows
-
-### Deployment
-- Docker containers for consistent environments
-- CI/CD pipelines for automated deployment
-- Environment-based configuration management
-
-### Security
-- Input validation at system boundaries
-- Secrets management (environment variables, not hardcoded)
-- Authentication with established providers (Supabase, Firebase)
+- Walk through system architectures in a screen-share
+- Discuss technical decisions with anonymized examples
+- Demonstrate deployed products where permitted
 
 ---
 
-## Tech Stack
+## Contact
 
-### Frontend
-```
-React 18/19  |  TypeScript  |  Next.js  |  Vite
-Tailwind CSS  |  MUI  |  Radix UI  |  Framer Motion
-TanStack Query  |  React Hook Form
-```
-
-### Backend
-```
-Python 3.8+  |  Flask  |  Node.js
-REST APIs  |  Background Workers
-```
-
-### Database & Infrastructure
-```
-Supabase (PostgreSQL)  |  Firebase  |  SQLite
-Docker  |  AWS Lambda  |  Vercel  |  Render
-```
-
-### AI & Processing
-```
-OpenRouter / OpenAI API  |  Paddle OCR  |  Tesseract
-AWS Polly  |  Azure Speech  |  PDF.js
-```
-
-### Payments & Auth
-```
-Stripe (Checkout, Subscriptions)
-Supabase Auth  |  Firebase Auth
-```
+- **Portfolio:** [PakCV.com](https://www.pakcv.com)
+- **LinkedIn:** [Connect](https://linkedin.com/in/pakmingc)
+- **Location:** Reading, United Kingdom
 
 ---
 
-## Contact & Interview Walkthrough
-
-I'm happy to do a technical deep-dive on any of my work. In a screen-share session, I can:
-
-- Walk through system architectures with redacted diagrams
-- Explain technical decisions and trade-offs
-- Discuss challenges faced and how I solved them
-- Show code patterns (without revealing proprietary logic)
-
-**Reach out:**
-- GitHub: [@pakmingc](https://github.com/pakmingc)
-- LinkedIn: [Connect with me](https://linkedin.com)
-
----
-
-<sub>*This profile reflects work patterns from local repository analysis. Private repository details are intentionally anonymized.*</sub>
+<sub>*Open to AI Engineering, Quantitative Development, and Technical Architecture roles*</sub>
