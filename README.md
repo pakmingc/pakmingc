@@ -1,39 +1,41 @@
 # Philip Cheung
 
-**AI Engineer | MSc AI (Merit) | Full-Stack Engineer | Quant Developer | HFT & SaaS Builder**
+**AI Engineer | MSc AI (Merit) | Full-Stack SaaS Developer**
 
-Bridging AI research with production systems - from LLM-powered applications to low-latency trading infrastructure and scalable SaaS platforms.
+Building production AI systems and scalable SaaS platforms. Specializing in LLM integration, RAG architectures, and modern full-stack development.
 
 ---
 
-## 🔧 What I Build
+## 🤖 What I Build
 
-- **🤖 AI/ML Systems** - RAG architectures, transformer models, NLP pipelines, real-time inference
-- **📈 Quantitative Trading** - HFT systems, backtesting frameworks, multi-signal models, market microstructure
-- **🌐 Full-Stack SaaS** - Multi-tenant platforms, subscription billing, real-time collaboration, enterprise APIs
-- **⛓️ Blockchain/Web3** - Smart contracts (Solidity), NFT marketplaces, DeFi analytics, trading bots
+- **🧠 AI/LLM Systems** - RAG pipelines, multi-provider LLM orchestration, chatbots, NLP engines, real-time inference
+- **🌐 Full-Stack SaaS** - Multi-tenant platforms, subscription billing (Stripe), real-time collaboration, enterprise APIs
+- **📊 ML Applications** - Transformer models, sentiment analysis, predictive analytics, MLOps pipelines
+- **⚡ Modern Web Apps** - React/Next.js frontends, Python/Node backends, serverless architectures
 
 ---
 
 ## 🎯 Current Focus
 
-- **LLM-Augmented Trading** - Combining transformer architectures with real-time market signals
-- **Multi-Provider AI Systems** - Reliable LLM architectures with fallback and response validation
-- **Low-Latency Infrastructure** - WebSocket streaming, event-driven systems, execution pipelines
+- **LLM Integration** - Building reliable AI systems with multi-provider fallback (OpenAI, Claude, Gemini)
+- **RAG Architectures** - Vector databases, semantic search, enterprise knowledge retrieval
+- **Production SaaS** - Scalable multi-tenant systems with auth, payments, and real-time features
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
+### AI & LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ```
-LLMs (GPT, Claude, Gemini) | RAG & LangChain | Transformers | Hugging Face
-XGBoost | LSTM/GRU | Reinforcement Learning | NLP | Sentiment Analysis
+LLMs: GPT-4 | Claude | Gemini | Hugging Face Transformers
+RAG: LangChain | Vector DBs (Pinecone, Weaviate, Chroma)
+ML: PyTorch | TensorFlow | XGBoost | LSTM | NLP | Sentiment Analysis
+MLOps: Model deployment | A/B testing | Monitoring | Auto-retraining
 ```
 
 ### Full-Stack Development
@@ -43,33 +45,32 @@ XGBoost | LSTM/GRU | Reinforcement Learning | NLP | Sentiment Analysis
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ```
-FastAPI | Django | Flask | GraphQL | REST APIs | WebSocket
-PostgreSQL | MongoDB | Redis | TimescaleDB | Supabase | Firebase
+Frontend: React 18/19 | Next.js 14/15 | TypeScript | Tailwind | shadcn/ui
+Backend: FastAPI | Django | Flask | Node.js | Express | GraphQL
+Real-time: WebSocket | Server-Sent Events | Streaming responses
 ```
 
-### Quantitative & Trading
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-```
-QuantConnect | MetaTrader 5 | CCXT | TradingView
-Backtesting | Monte Carlo | Time Series | Risk Management
-```
-
-### DevOps & Cloud
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ```
-EC2 | Lambda | S3 | CI/CD | Kubernetes | Microservices
+Database: PostgreSQL | MongoDB | Redis | Supabase | Firebase
+Cloud: AWS (EC2, Lambda, S3, RDS) | Vercel | Render
+DevOps: Docker | CI/CD | Kubernetes | Microservices
 ```
 
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+### SaaS & Payments
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ```
-Smart Contracts | NFT (ERC-721/1155) | DeFi | Web3.js | On-Chain Analytics
+Auth: Supabase Auth | Firebase Auth | NextAuth | JWT
+Payments: Stripe Checkout | Subscriptions | Webhooks | Usage billing
+Multi-tenant: Row-level security | Tenant isolation | Usage analytics
 ```
 
 ---
@@ -77,7 +78,7 @@ Smart Contracts | NFT (ERC-721/1155) | DeFi | Web3.js | On-Chain Analytics
 ## 🎓 Education & Certifications
 
 **MSc Computer Science with Artificial Intelligence (Merit)**
-*Dissertation: LLM-Augmented High-Frequency Trading Strategy Development*
+*Dissertation: LLM-Augmented Trading Strategy Development*
 
 **BBA** - Hong Kong University of Science & Technology
 
@@ -86,7 +87,6 @@ Smart Contracts | NFT (ERC-721/1155) | DeFi | Web3.js | On-Chain Analytics
 | Gemini Certified Educator | Google (2025) |
 | CS50x Computer Science | Harvard |
 | MLOps Specialization | Google Cloud |
-| Securities License (1,7,8,12) | HK SFC |
 
 ---
 
@@ -94,20 +94,19 @@ Smart Contracts | NFT (ERC-721/1155) | DeFi | Web3.js | On-Chain Analytics
 
 *Company names anonymized*
 
-**Head of Quantitative Research** | London (2025-Present)
-- Lead HFT strategy development across Forex, indices, and crypto markets
-- Built transformer-based predictive models for market forecasting
-- Architected low-latency execution infrastructure
+**AI Engineer & Technical Architect** | Remote UK (2021-Present)
+- Built production RAG systems with LangChain and vector databases
+- Designed multi-provider LLM orchestration with fallback and rate limiting
+- Developed NLP pipelines processing 500K+ documents for sentiment analysis
+- Architected distributed ML inference systems for real-time predictions
+- Led team of 6 engineers, established AI/ML best practices
 
-**AI Engineer & Technical Architect** | Remote UK (2021-2024)
-- Designed distributed ML inference systems for real-time predictions
-- Built RAG platform with vector databases for enterprise search
-- Led engineering team, established AI/ML best practices
-
-**Senior Software Engineer** | Hong Kong (2015-2021)
-- Architected multi-tenant SaaS platforms for enterprise clients
-- Developed blockchain/NFT marketplace with Solidity smart contracts
-- Built real-time collaboration systems with WebSocket
+**Senior Full-Stack Engineer** | Hong Kong (2015-2021)
+- Built 3 multi-tenant SaaS platforms with subscription billing (Stripe)
+- Developed real-time collaboration features using WebSocket
+- Created GraphQL/REST APIs handling 1M+ daily requests
+- Implemented enterprise document management systems
+- Integrated payment gateways and automated billing workflows
 
 ---
 
@@ -115,12 +114,12 @@ Smart Contracts | NFT (ERC-721/1155) | DeFi | Web3.js | On-Chain Analytics
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ethereum-price-prediction](https://github.com/pakmingc/ethereum-price-prediction) | 📊 ML ensemble model for crypto price forecasting | Python, LSTM, XGBoost |
-| [crypto-sentiment-alert](https://github.com/pakmingc/crypto-sentiment-alert) | 🔔 Real-time crypto sentiment monitoring | Python, NLP |
-| [PizzaPicker_m2](https://github.com/pakmingc/PizzaPicker_m2) | 🍕 Unity mobile arcade game | C#, Unity, ShaderLab |
-| [FoodDeliveryLegend](https://github.com/pakmingc/FoodDeliveryLegend) | 🚗 Unity delivery simulation game | C#, Unity |
-| [Automotive](https://github.com/pakmingc/Automotive) | 🏎️ Unity racing/driving game | C#, Unity |
-| [engineering-showcase](https://github.com/pakmingc/engineering-showcase) | 📐 Architecture docs & case studies | Markdown, Mermaid |
+| [engineering-showcase](https://github.com/pakmingc/engineering-showcase) | 📐 Architecture diagrams, decision logs, case studies | Markdown, Mermaid |
+| [ethereum-price-prediction](https://github.com/pakmingc/ethereum-price-prediction) | 📊 LSTM/XGBoost ensemble for price forecasting | Python, TensorFlow |
+| [crypto-sentiment-alert](https://github.com/pakmingc/crypto-sentiment-alert) | 🔔 NLP sentiment monitoring system | Python, NLP |
+| [PizzaPicker_m2](https://github.com/pakmingc/PizzaPicker_m2) | 🍕 Unity mobile arcade game | C#, Unity |
+| [FoodDeliveryLegend](https://github.com/pakmingc/FoodDeliveryLegend) | 🚗 3D delivery simulation game | C#, Unity |
+| [Automotive](https://github.com/pakmingc/Automotive) | 🏎️ Unity vehicle physics demo | C#, Unity |
 
 ---
 
@@ -134,6 +133,6 @@ Smart Contracts | NFT (ERC-721/1155) | DeFi | Web3.js | On-Chain Analytics
 
 ## 📫 Get in Touch
 
-Open to **AI Engineering**, **Quantitative Development**, and **Full-Stack Architecture** opportunities.
+Open to **AI Engineering**, **Full-Stack Development**, and **SaaS Architecture** opportunities.
 
 📍 Reading, United Kingdom
