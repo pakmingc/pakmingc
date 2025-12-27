@@ -10,8 +10,9 @@ Building production AI systems and scalable SaaS platforms. Specializing in LLM 
 
 - **🧠 AI/LLM Systems** - RAG pipelines, multi-provider LLM orchestration, chatbots, NLP engines, real-time inference
 - **🌐 Full-Stack SaaS** - Multi-tenant platforms, subscription billing (Stripe), real-time collaboration, enterprise APIs
-- **📊 ML Applications** - Transformer models, sentiment analysis, predictive analytics, MLOps pipelines
-- **⚡ Modern Web Apps** - React/Next.js frontends, Python/Node backends, serverless architectures
+- **📊 ML & Vision** - Transformer models, computer vision (OpenCV), OCR systems, predictive analytics
+- **📄 Document Processing** - PDF generation, Word/Excel parsing, MDX content, automated reports
+- **⚡ Modern Web Apps** - React/Next.js/Vite frontends, Python/Node backends, serverless architectures
 
 ---
 
@@ -35,6 +36,7 @@ Building production AI systems and scalable SaaS platforms. Specializing in LLM 
 LLMs: GPT-4 | Claude | Gemini | Hugging Face Transformers
 RAG: LangChain | Vector DBs (Pinecone, Weaviate, Chroma)
 ML: PyTorch | TensorFlow | XGBoost | LSTM | NLP | Sentiment Analysis
+Vision: Google Cloud Vision | OpenCV | Pytesseract OCR | scikit-image
 MLOps: Model deployment | A/B testing | Monitoring | Auto-retraining
 ```
 
@@ -42,10 +44,12 @@ MLOps: Model deployment | A/B testing | Monitoring | Auto-retraining
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ```
-Frontend: React 18/19 | Next.js 14/15 | TypeScript | Tailwind | shadcn/ui
+Frontend: React 18/19 | Next.js 14/15 | Vite | TypeScript | Tailwind | shadcn/ui
+UI: MUI v7 | Framer Motion | Radix UI | Mermaid diagrams
+State: TanStack Query | Jotai | React Hook Form | Zod
 Backend: FastAPI | Django | Flask | Node.js | Express | GraphQL
 Real-time: WebSocket | Server-Sent Events | Streaming responses
 ```
@@ -71,6 +75,14 @@ DevOps: Docker | CI/CD | Kubernetes | Microservices
 Auth: Supabase Auth | Firebase Auth | NextAuth | JWT
 Payments: Stripe Checkout | Subscriptions | Webhooks | Usage billing
 Multi-tenant: Row-level security | Tenant isolation | Usage analytics
+```
+
+### Document & Content Processing
+```
+PDF: pdf-lib | jspdf | pdfjs-dist | Puppeteer
+Documents: mammoth (Word) | docx | xlsx | epub-gen-memory
+Content: MDX | React Markdown | remark/rehype | KaTeX math
+Storage: Dropbox API | Google Drive API | S3
 ```
 
 ---
