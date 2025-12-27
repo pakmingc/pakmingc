@@ -64,6 +64,7 @@ Real-time: WebSocket | Server-Sent Events | Streaming responses
 Database: PostgreSQL | MongoDB | Redis | Supabase | Firebase
 Cloud: AWS (EC2, Lambda, S3, RDS) | Vercel | Render
 DevOps: Docker | CI/CD | Kubernetes | Microservices
+Java: Maven | Tomcat | WAR deployment | Open-source DMS
 ```
 
 ### SaaS & Payments
