@@ -1,8 +1,10 @@
+<img src="assets/profile-banner.png.jpeg" alt="Profile Banner" width="100%">
+
 # Philip Cheung
 
-**AI Engineer | MSc AI (Merit) | Full-Stack SaaS Developer**
+**Head of AI & Machine Learning | MSc AI (Merit) | Full-Stack SaaS Developer**
 
-Building production AI systems and scalable SaaS platforms. Specializing in LLM integration, RAG architectures, and modern full-stack development.
+Building production AI systems and scalable SaaS platforms. Specializing in LLM integration, RAG architectures, multi-provider AI orchestration, and modern full-stack development.
 
 ---
 
@@ -25,6 +27,8 @@ Building production AI systems and scalable SaaS platforms. Specializing in LLM 
 ---
 
 ## 🛠️ Tech Stack
+
+<img src="assets/tech-stack-overview.png.jpeg" alt="Tech Stack Overview" width="600">
 
 ### AI & LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -105,9 +109,17 @@ Storage: Dropbox API | Google Drive API | S3
 
 ## 💼 Experience Highlights
 
+<img src="assets/career-timeline.png.jpeg" alt="Career Timeline" width="700">
+
 *Company names anonymized*
 
-**AI Engineer & Technical Architect** | Remote UK (2021-Present)
+**Head of AI & Machine Learning** | Hybrid UK (2025-Present)
+- Define and execute organisation-wide AI and machine learning roadmap
+- Architect scalable AI platforms covering data ingestion, feature pipelines, and model lifecycle management
+- Lead integration of large language models and RAG-based systems into operational workflows
+- Provide technical input for strategic initiatives, partnerships, and acquisitions
+
+**AI Engineer & Technical Architect** | Remote UK (2021-2024)
 - Built production RAG systems with LangChain and vector databases
 - Designed multi-provider LLM orchestration with fallback and rate limiting
 - Developed NLP pipelines processing 500K+ documents for sentiment analysis
