@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.png.jpeg" alt="Profile Banner" width="100%">
+<img src="assets/profile-banner.png" alt="Profile Banner" width="100%">
 
 # Philip Cheung
 
@@ -28,7 +28,7 @@ Building production AI systems and scalable SaaS platforms. Specializing in LLM 
 
 ## 🛠️ Tech Stack
 
-<img src="assets/tech-stack-overview.png.jpeg" alt="Tech Stack Overview" width="600">
+<img src="assets/tech-stack-overview.png" alt="Tech Stack Overview" width="600">
 
 ### AI & LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ Building production AI systems and scalable SaaS platforms. Specializing in LLM 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ```
-LLMs: GPT-4 | Claude | Gemini | Hugging Face Transformers
+LLMs: GPT-5 | Claude | Gemini | Hugging Face Transformers
 RAG: LangChain | Vector DBs (Pinecone, Weaviate, Chroma)
 ML: PyTorch | TensorFlow | XGBoost | LSTM | NLP | Sentiment Analysis
 Vision: Google Cloud Vision | OpenCV | Pytesseract OCR | scikit-image
@@ -108,8 +108,6 @@ Storage: Dropbox API | Google Drive API | S3
 ---
 
 ## 💼 Experience Highlights
-
-<img src="assets/career-timeline.png.jpeg" alt="Career Timeline" width="700">
 
 *Company names anonymized*
 
